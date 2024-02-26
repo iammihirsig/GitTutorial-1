@@ -1,2 +1,2 @@
 This is new feature 1
-This is second line and is very bad
+This is second line and it is good
